@@ -58,6 +58,7 @@ assets:
     type: list
 #ARD Edits:
 - name: ard/eh10.ard #Xigbar Arena
+  platform: pc
   multi:
   - name: ard/us/eh10.ard
   - name: ard/fr/eh10.ard
@@ -72,6 +73,7 @@ assets:
     source:
     - name: ard/eh10/evt.script
 - name: ard/eh14.ard #Luxord Arena
+  platform: pc
   multi:
   - name: ard/us/eh14.ard
   - name: ard/fr/eh14.ard
@@ -86,6 +88,7 @@ assets:
     source:
     - name: ard/eh14/evt.script
 - name: ard/eh15.ard #Saix Arena
+  platform: pc
   multi:
   - name: ard/us/eh15.ard
   - name: ard/fr/eh15.ard
@@ -100,6 +103,7 @@ assets:
     source:
     - name: ard/eh15/evt.script
 - name: ard/hb17.ard #Station of Remembrance (AS Warp)
+  platform: pc
   multi:
   - name: ard/us/hb17.ard
   - name: ard/fr/hb17.ard
@@ -114,6 +118,7 @@ assets:
     source:
     - name: ard/hb17/evt.script
 - name: ard/hb33.ard #Station of Remembrance (AS Warp)
+  platform: pc
   multi:
   - name: ard/us/hb33.ard
   - name: ard/fr/hb33.ard
@@ -128,6 +133,7 @@ assets:
     source:
     - name: ard/hb33/evt.script
 - name: ard/hb38.ard #Station of Oblivion
+  platform: pc
   multi:
   - name: ard/us/hb38.ard
   - name: ard/fr/hb38.ard
