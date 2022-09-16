@@ -1,5 +1,5 @@
 title: Double Plus
-description: Port of Double Plus to OpenKH Mod Format. Incompatible with Rando.
+description: Port of Double Plus to OpenKH Mod Format.
 assets:
 #Currently, trying to create Double Plus in a way that DOESN'T change offsets, to maintain Rando-Compatibility
 #as much as possible.
