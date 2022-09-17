@@ -4,7 +4,7 @@ Final:
   FormId: 5
   FormLevel: 1
   GrowthAbilityLevel: 0
-- Ability: 457
+- Ability: 0
   Experience: 12
   FormId: 5
   FormLevel: 2
@@ -40,7 +40,7 @@ Limit:
   FormId: 3
   FormLevel: 1
   GrowthAbilityLevel: 0
-- Ability: 455
+- Ability: 0
   Experience: 3
   FormId: 3
   FormLevel: 2
@@ -76,7 +76,7 @@ Master:
   FormId: 4
   FormLevel: 1
   GrowthAbilityLevel: 0
-- Ability: 456
+- Ability: 0
   Experience: 40
   FormId: 4
   FormLevel: 2
@@ -148,7 +148,7 @@ Valor:
   FormId: 1
   FormLevel: 1
   GrowthAbilityLevel: 0
-- Ability: 453
+- Ability: 0
   Experience: 80
   FormId: 1
   FormLevel: 2
@@ -184,7 +184,7 @@ Wisdom:
   FormId: 2
   FormLevel: 1
   GrowthAbilityLevel: 0
-- Ability: 454
+- Ability: 0
   Experience: 12
   FormId: 2
   FormLevel: 2
