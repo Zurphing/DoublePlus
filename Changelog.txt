@@ -1,0 +1,234 @@
+Kingdom Hearts II: Final Mix++
+CREDITS:
+OpenKH, for tools & documentation
+Osdanova, for their KH2FM_Editor
+Soraiko, for their MDLX Importer & MSET Editor
+Tomk10004, for their model importing tutorial
+TrueLovePrevails, for their Kingdom Hearts font
+Hennykage, for their original mod of High-Poly Sora
+which inspired me to do my own version for this mod.
+SPTKira, as some of the adjustments to drive & summon costs
+were inspired by their plando
+Rapid, for their assistance with learning model rigging
+o0Demonboy0o, for uploading the SoulEater model to SpritersResource
+Shane, for playtesting & informing me of a crash.
+Kareking1 & Runsu, for documenting attack ID's.
+Disgustor, for the animation tutorial.
+
+
+A mod aimed at numbers tweaks and a select few asset tweaks to alter specific aspects of the game, in an attempt to provide a slightly different experience. 
+CHANGELOG:
+
+GENERAL:
+All difficulties now start the game with Combo Master
+All difficulty modes now start the game with the No Experience ability, allowing LVL1 playthroughs on every difficulty
+Beginner, Standard, and Proud start with 25 AP, Reaction Boost, Lucky Lucky, Finishing Plus as a result to accomodate this
+The "Kingdom Hearts I" Command Menu option now uses the menu icons from Kingdom Hearts I, instead of the slightly different KH2 icons
+Reverted "Last Arcanum," "Sonic Rave" and "Infinity" back to their original names, Ars Arcanum, Sonic Blade, & Ragnarok
+Sora now starts the game with most of the maps obtained from Big Chests unlocked
+Most of the big chests in the game that formerly gave maps will now give different items
+An additional 7 Orichalcum+'s have been scattered all across the worlds. Find them all to synthesize a second Ultima Weapon
+Duplicates of certain keyblades are now obtainable
+Donald and Goofy now join you for the 1000 Heartless Battle
+Party Members now come with their Auto Limit abilities unequipped by default.
+Range of Draw has been increased by approximately 3x.
+The Auto-Form abilities have been removed as Form Level Up rewards.
+
+Certain non-combat reaction commands are now performable even while the player is mid-air. They're listed below.
+	Save
+	All Shop/Synthesize NPCs.
+	Talk/Examine/Approach/Interrogate/Investigate/Greet
+	100 Acre Wood Enter/Leaving the Book
+	Hop On (Skateboard RC)
+	Ride the Wind (RC for the Tornado in CoR/Land of Dragons)	
+	Access (Garden of Assemblage RC)
+	Access Computer
+	Apply for Work (Twilight Town Job Board RC)
+	Ask About Missions (Land of Dragons Mission Select RC)
+	Go to the Rescue
+	Go to the Tournament
+	Help Her Up
+	Touch The Beam/Touch The Light (Transport into STT)
+	Ready, Go! (Mushroom XIII Reaction Command)
+
+Marluxia boss battle given his Lord of the Castle theme (1.5 ReCOM version)
+Larxene boss battle given her 13th Struggle remix from KH3 Re:Mind
+Luxord boss battle given his 13th Struggle remix from KH3 Re:Mind
+Xigbar boss battle given his 13th Dilemma remix from KH3 Re:Mind
+Saix boss battle given his 13th Dilemma remix from KH3 Re:Mind
+
+
+LEVELUP ABILITIES:
+Altered the levels at which you get abilities, reducing the overall amount of EXP needed to get every ability by leveling up.
+
+	Abilities: Thunder Boost (Sword) Drive Converter (Shield) and Damage Control (Staff) are now gained at level 52 instead of level 53.
+	Defender (Sword) Blizzard Boost (Shield) and Combination Boost (Staff) are now gained at level 56 instead of level 59.
+	Berserk Charge (Sword) Finishing Plus (Shield) and Second Chance (Staff) are now gained at level 60 instead of level 65
+	Jackpot (Sword) Negative Combo (Shield) and Air Combo Boost (Staff) are now gained at level 63 instead of level 73
+	Second Chance (Sword) Berserk Charge (Shield) and Finishing Plus (Staff) are now gained at level 66 instead of level 85
+	Damage Control (Sword) Thunder Boost (Shield) and Drive Converter (Staff) are now gained at level 70 instead of level 99
+
+All routes now gain two additional Experience Boosts at levels 20 & 50 to assist in grinding.
+
+BATTLE ABILITIES:
+Dodge Slash has been replaced by Distance Dash, a Slide Dash variant that can be activated from significantly further away
+Sora now has a new ability called Distance Step, a Flash Step variant that can be activated from significantly further away
+Retaliating Slash can now kill bosses
+Combo Boost has been given a 10% nerf to damage, as two of the ability can now be obtained without using a keyblade
+Combination Boost has been given a slight buff. The gauge should drain about 12.5% slower
+Sora's default Ground Finishers have been replaced by a new finisher named Explosive Break.
+	Explosive Break is a fast and powerful finisher that knocks enemies back extremely far.
+	While the knockback is normally too high to hit a 2nd Explosive Break on an enemy, some creative use of your combat abilities can let you get a 2nd Explosive Break on an enemy.
+Counterguard:
+	Damage is now increased by Reaction Boost.
+	Damage dealt is now doubled.
+	Deals half as much revenge value.
+
+BONUS LEVELS:
+Slapshot is now given after defending the Bailey in Hollow Bastion 1. (Moved from Betwixt & Between)
+Dream Shield now awarded upon beating Pete for the 1st time in Olympus Coliseum.
+Soul Eater now awarded upon beating Cerberus
+Betwixt & Between now rewards the player with Combo Boost & Air Combo Boost
+Defeating Roxas in TWTNW now rewards the player with Light & Darkness
+Goofy gets a Lucky Lucky at The Interceptor
+Minnie Escort now rewards the player with a Summon Boost, instead of an Auto-Summon
+Escorting Abu now rewards the player with Distance Step
+Anti-Form is obtained after beating the Possessor in Beast's Castle 
+
+DRIVE FORMS:
+Valor Form: 
+	Cost decreased from 3 drive gauges to 2 drive gauges.
+Wisdom Form: 
+	Aerial shoot attack replaced by Magic Burst. Shoots a volley of magic bullets at the enemy, and can lead into either a 2nd volley or a magic attack.
+	Now starts the game with a Fire Boost, Thunder Boost, and Blizzard Boost
+	Wisdom Shot has been buffed
+		All non-finisher shots now do double the damage.
+		Amount of revenge value done by shots has been reduced by approximately half.
+		Drive Gauge Drain of these shots has been reduced by half.
+Anti-Form: Now obtainable, and usable from the Drive Menu. 
+	Costs 1 drive gauge to use
+	No Experience ability removed
+	Certain Anti-Form's attacks now drain the drive gauge 1.5x faster, to make up for a lack of Revert option compared to other forms
+	Jump Height increased slightly
+	Can now be interrupted 10 frames sooner. Move the control stick or attack to interrupt it
+	More hits can finish off bosses
+Limit Form: 
+	Strike Raid MP Cost Decreased. Down from 65MP -> 40MP
+		Damage dealt by Strike Raid increased by 5%
+	Hurricane Winder now no longer "floats" Sora in the air, instead applying gravity to him instantly
+		Every hit except the first of Hurricane Winder does an extra 25% damage, to compensate for the loss of multiple Winders per combo
+		Hurricane Winder drains 1.1x more drive than previously
+	Ripple Drive damage increased by 50%. Drive Drain decreased by ~15%.
+	Guard can now be cancelled early with a reaction command like Base Sora
+Master Form:
+	Now has Omega Finale. Press Square mid-air to end your combo early, with Disaster
+	Disaster:
+		First 10 hits don't drain the drive gauge anymore
+		Final 2 hits drains the drive gauge 33% more
+		Revenge value dealt by the final hit has been decreased by ~20%
+	Single-Target Finisher:
+		Drains less drive, approximately ~20% less
+
+SUMMONS:
+Genie:
+	Cost reduced from 3 Drive Gauges to 2.
+	"Arcana" Limit Cost Decreased, from 3 Summon Gauges to 2 Summon Gauges
+	"Ragnarok" Limit Cost Decreased, from 5 Summon Gauges to 3.5 Summon Gauges
+Stitch:
+	Cost increased from 3 Drive Gauges to 5.
+
+
+MAGIC CHANGES:
+Base Sora's Magnet, Blizzard, Thunder, & Cure air-magic animations have all been changed to Wisdom Form's animations.
+	Base Sora has been given a slightly nerfed Final Form Air Fire & Air Reflect.
+Reflect MP cost adjusted from 10MP per cast -> 12MP per cast.
+	Reflect Damage as Base Sora has been nerfed by 10% (Power 550 -> Power 500)
+Blizzard MP cost adjusted from 15MP per cast -> 14MP per cast.
+Thunder MP cost adjusted from 18MP per cast -> 16MP per cast.
+
+EQUIPMENT CHANGES:
+All accessories (save for the Medal, Draw Ring, Luck Ring, & Executives Ring) give 1 more AP than before
+Executive's Ring now gives 40AP (Up from 30AP)
+Skill Ring now gives 8AP (Up from 4AP)
+Skillful Ring now gives 10AP (Up from 5AP)
+Gold Ring now gives 3AP (Up from 2AP)
+Draw Ring & Lucky Ring now give 5AP (Up from 0AP)
+
+Decisive Pumpkins stats adjusted and ability changed
+	(6/1 Str/Mag -> 7/2 Str/Mag)
+	(Combo Boost -> Combination Boost)
+Kingdom Key stats adjusted
+	(3/1 Str/Mag -> 5/2 Str/Mag)
+Oathkeeper stats adjusted
+	(3/3 Str/Mag -> 4/5 Str/Mag)
+Oblivion stats adjusted and ability changed
+	(6/2 Str/Mag -> 6/3 Str/Mag)
+	(Drive Boost -> Form Boost)
+Star Seekers stats adjusted
+	(3/1 Str/Mag -> 2/4 Str/Mag)
+Hero's Crest stats adjusted
+	(4/0 Str/Mag -> 6/0 Str/Mag)
+Follow the Wind stats adjusted
+	(3/1 Str/Mag -> 5/2 Str/Mag)
+Monochrome stats adjusted
+	(3/2 Str/Mag -> 3/4 Str/Mag)
+Circle of Life stats adjusted
+	(3/2 Str/Mag -> 2/5 Str/Mag)
+Photon Debugger stats adjusted
+	(3/1 Str/Mag -> 2/3 Str/Mag)
+Fatal Crest stats adjusted
+	(3/5 Str/Mag -> 4/5 Str/Mag)
+Sweet Memories stats adjusted
+	(0/4 Str/Mag -> 0/7 Str/Mag)
+Wishing Lamp stats adjusted
+	(4/3 Str/Mag -> 5/3 Str/Mag)
+Guardian Soul stats adjusted
+	(5/1 Str/Mag -> 6/1 Str/Mag)
+Ultima Weapon stats adjusted
+	(6/4 Str/Mag -> 7/13 Str/Mag)
+Two Become One ability changed.
+	(Light & Darkness -> Reaction Boost)
+Firagun Bangle
+	Now has the Fire Boost ability.
+Blizzagun Bangle
+	Now has the Blizzard Boost ability.
+
+NEW KEYBLADES:
+Soul Eater has been added, replacing the test keyblade Edge of Ultima.
+	Stats: (STR/MAG) 5/1
+	Ability: Form Boost
+	Additional: Provides a 10% boost to Dark Resistance.
+	Description: A sword of darkness once wielded by Riku. Provides a 10% boost to Dark Resistance.
+
+Dream Sword has been added, replacing the test keyblade Detection Saber
+	Stats: (STR/MAG) 4/3
+	Ability: Finishing Plus
+	Additional: 
+	Description: A sword of tremendous strength, allowing finishing combo moves to be unleashed successively.
+
+Dream Rod has been added, replacing the Gull Wing Keyblade.
+	Stats: (STR/MAG) 3/4
+	Ability: MP Hastera
+	Additional:
+	Description: A mysterious rod that increases the restoration speed of the MP Gauge by 50%.
+
+Dream Shield has been added, replacing the Winner's Proof keyblade.
+	Stats: (STR/MAG) 3/3
+	Ability: Protect
+	Additional: Provides a 15% boost to General Resistance.
+	Description: A sturdy shield with deceptively long range. Reduces 15% of damage received by the user.
+
+One-Winged Angel has been added, replacing the Hidden Dragon keyblade.
+	Stats: (STR/MAG) 1/6
+	Ability: Drive Boost
+
+
+KNOWN ISSUES:
+When fighting a Data Org member that has newly added music, the original song that used to play for them might play for a brief second in the cutscene.
+Soul Eater's text showing its stats when equipping/deequipping it from the menu will go off the page.
+The Dream Shield lies face-down when you're choosing a weapon against Seifer in Twilight Town.
+There are some VERY specific scenarios with keyblade swapping that could lead to a crash. 
+In general, try not to change out your keyblades while you're already in a drive form.
+In the majority of cases, it should be fine, but for some bizarre reason, having Ultima Weapon equipped to Base Sora & Final Form
+and swapping your keyblade will lead to a crash.
+Frost Crystal & Lightning Shard's item picture will reuse a different tier of Synthesis item.
