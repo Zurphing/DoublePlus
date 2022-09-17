@@ -148,22 +148,27 @@ assets:
     source:
     - name: ard/hb38/evt.script
 - name: bgm/music602.win32.scd
+  platform: pc
   method: copy
   source:
   - name: music602.win32.scd
 - name: bgm/music598.win32.scd
+  platform: pc
   method: copy
   source:
   - name: music598.win32.scd
 - name: bgm/music599.win32.scd
+  platform: pc
   method: copy
   source:
   - name: music599.win32.scd
 - name: bgm/music600.win32.scd
+  platform: pc
   method: copy
   source:
   - name: music600.win32.scd
 - name: bgm/music601.win32.scd
+  platform: pc
   method: copy
   source:
   - name: music601.win32.scd
