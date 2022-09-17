@@ -56,6 +56,11 @@ assets:
     source:
     - name: trsr_0.list
     type: list
+   - method: copy	#pref changes, includes Anti jump height, Draw Range, Combo Boost Damage, Combination Boost Time
+    name: pref
+    source:
+    - name: pref_0.bin
+    type: binary
 #ARD Edits:
 - name: ard/eh10.ard #Xigbar Arena
   platform: pc
