@@ -56,7 +56,7 @@ assets:
     source:
     - name: trsr_0.list
     type: list
-   - method: copy	#pref changes, includes Anti jump height, Draw Range, Combo Boost Damage, Combination Boost Time
+  - method: copy	#pref changes, includes Anti jump height, Draw Range, Combo Boost Damage, Combination Boost Time
     name: pref
     source:
     - name: pref_0.bin
