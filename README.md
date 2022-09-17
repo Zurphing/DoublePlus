@@ -1,4 +1,7 @@
 # DoublePlus
+Font by Televo: </br>
+https://github.com/Televo/kingdom-hearts-recollection </br>
+
 Port of Double Plus to OpenKH Mod Format </br>
 This version of Double Plus is compatible with the GoA Randomizer, but can also be played on its own. </br>
 If using with the GoA Randomizer, please install this mod **underneath GoA-ROM-Edition & the Seed you're currently playing.** </br>
