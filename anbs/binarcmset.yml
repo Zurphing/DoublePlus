@@ -1,0 +1,29 @@
+assets:
+- name: obj/P_EX100.mset
+  method: binarc
+  source:
+  - method: copy
+    name: A371 #Sora Base Fire/Reflect (AIR)
+    source:
+    - name: anbs/E372.anb #Sora Final Fire/Reflect (AIR)
+    type: ANB
+  - method: copy
+    name: A370 #Sora Base Blizzard (AIR)
+    source:
+    - name: anbs/C370.anb #Sora Wisdom Blizzard (AIR)
+    type: ANB
+  - method: copy
+    name: A372 #Sora Base Thunder/Cure/Magnet (AIR)
+    source:
+    - name: anbs/C372.anb #Sora Wisdom Thunder/Cure/Magnet
+    type: ANB
+  - method: copy
+    name: A303 #Sora Ground Fin 1
+    source:
+    - name: anbs/K415.anb #Explosive Break
+    type: ANB
+  - method: copy
+    name: A304 #Sora Ground FIn 2
+    source:
+    - name: anbs/K415.anb #Explosive Break
+    type: ANB
