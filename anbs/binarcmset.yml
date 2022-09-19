@@ -27,3 +27,27 @@ assets:
     source:
     - name: anbs/K415.anb #Explosive Break
     type: ANB
+- name: obj/P_EX100_HTLF.mset
+  method: binarc
+  source:
+  - method: copy
+    name: F311 #Sora Anti-Glide
+    source:
+    - name: anbs/F311.anb #Sora Anti-Glide Buff
+    type: ANB
+- name: obj/P_EX100_KH1F.mset
+  method: binarc
+  source:
+  - method: copy
+    name: K332 #Sora Hurricane Winder
+    source:
+    - name: anbs/K332.anb #Sora Hurricane Winder NO FLOAT
+    type: ANB
+- name: obj/P_EX100_MAGF.mset
+  method: binarc
+  source:
+  - method: copy
+    name: C330 #Sora Wisdom Air Shot
+    source:
+    - name: anbs/A892.anb #Sora Wisdom Magic Burst
+    type: ANB
