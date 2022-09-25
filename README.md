@@ -12,7 +12,3 @@ Features Absent: </br>
 Shortcut Forms have been removed. Please either download `TopazTK/KH-ReFined` or install `Zurphing/LUA_MultipleShortcutMenus` as a lua script to access them. </br>
 For better compatibility between different visual mods, Sora's texture changes & Keyblade model swaps have been removed from this version. </br>
 Please install this mod **and** `Zurphing/DoublePlusFull` if you'd want to restore them. </br>
-
-
-Currently still needs: itempic, remastered textures, text-swap of Distance Dash & Distance Step (Currently, equipping Distance Step gives you Distance Dash & vice versa)
-Tentative: Split Double Plus into Double Plus & Double Plus Modelswaps, so people can choose to install model swaps.
