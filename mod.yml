@@ -59,7 +59,7 @@ assets:
     - name: pref_0.bin
     type: binary
 #ARD Edits:
-- name: ard/eh10.ard #Xigbar Arena
+- name: ard/eh10.ard #Xigbar Arena, changes up music for fight. If you want to remove the music, comment this out or remove entirely.
   platform: pc
   multi:
   - name: ard/us/eh10.ard
@@ -74,7 +74,7 @@ assets:
     method: areadatascript
     source:
     - name: ard/eh10/evt.script
-- name: ard/eh14.ard #Luxord Arena
+- name: ard/eh14.ard #Luxord Arena, changes up music for fight. If you want to remove the music, comment this out or remove entirely.
   platform: pc
   multi:
   - name: ard/us/eh14.ard
@@ -89,7 +89,7 @@ assets:
     method: areadatascript
     source:
     - name: ard/eh14/evt.script
-- name: ard/eh15.ard #Saix Arena
+- name: ard/eh15.ard #Saix Arena, changes up music for fight. If you want to remove the music, comment this out or remove entirely.
   platform: pc
   multi:
   - name: ard/us/eh15.ard
@@ -104,7 +104,7 @@ assets:
     method: areadatascript
     source:
     - name: ard/eh15/evt.script
-- name: ard/hb17.ard #Station of Remembrance (AS Warp)
+- name: ard/hb17.ard #1000 Heartless Battle, adds in Donald & Goofy to the fight.
   platform: pc
   multi:
   - name: ard/us/hb17.ard
@@ -119,7 +119,7 @@ assets:
     method: areadatascript
     source:
     - name: ard/hb17/evt.script
-- name: ard/hb33.ard #Station of Remembrance (AS Warp)
+- name: ard/hb33.ard #Station of Remembrance (AS Warp), changes up music for fight. If you want to remove the music, comment this out or remove entirely.
   platform: pc
   multi:
   - name: ard/us/hb33.ard
@@ -134,7 +134,7 @@ assets:
     method: areadatascript
     source:
     - name: ard/hb33/evt.script
-- name: ard/hb38.ard #Station of Oblivion
+- name: ard/hb38.ard #Station of Oblivion, changes up music for fight. If you want to remove the music, comment this out or remove entirely.
   platform: pc
   multi:
   - name: ard/us/hb38.ard
@@ -149,53 +149,53 @@ assets:
     method: areadatascript
     source:
     - name: ard/hb38/evt.script
-- name: bgm/music602.win32.scd
+- name: bgm/music602.win32.scd #Marluxia New Theme. Don't comment these out without also commenting out the .ard files.
   platform: pc
   method: copy
   source:
   - name: music602.win32.scd
-- name: bgm/music598.win32.scd
+- name: bgm/music598.win32.scd #Xigbar New Theme
   platform: pc
   method: copy
   source:
   - name: music598.win32.scd
-- name: bgm/music599.win32.scd
+- name: bgm/music599.win32.scd #Saix New Theme
   platform: pc
   method: copy
   source:
   - name: music599.win32.scd
-- name: bgm/music600.win32.scd
+- name: bgm/music600.win32.scd #Luxord New Theme
   platform: pc
   method: copy
   source:
   - name: music600.win32.scd
-- name: bgm/music601.win32.scd
+- name: bgm/music601.win32.scd #Larxene New Theme
   platform: pc
   method: copy
   source:
   - name: music601.win32.scd
 #Moveset Changes
-- name: obj\P_EX100.mset
+- name: obj\P_EX100.mset #New Sora MSET for Explosive Break & Dodge Slash removal
   method: copy
   source:
   - name: obj\P_EX100.mset
-- name: obj\P_EX100_HTLF.mset
+- name: obj\P_EX100_HTLF.mset #Slight Anti-Form change
   method: copy
   source:
   - name: obj\P_EX100_HTLF.mset
-- name: obj\P_EX100_KH1F.mset
+- name: obj\P_EX100_KH1F.mset #Better Hurricane Winder
   method: copy
   source:
   - name: obj\P_EX100_KH1F.mset
-- name: obj\P_EX100_MAGF.mset
+- name: obj\P_EX100_MAGF.mset #New Air Attack
   method: copy
   source:
   - name: obj\P_EX100_MAGF.mset
-- name: obj\W_EX010.mset
+- name: obj\W_EX010.mset #Keyblade MSET fixes for Base Sora
   method: copy
   source:
   - name: obj\W_EX010.mset
-- name: msg/jp/sys.bar
+- name: msg/jp/sys.bar #Text changes
   multi:
   - name: msg/us/sys.bar
   - name: msg/fr/sys.bar
